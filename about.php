@@ -56,7 +56,9 @@
 
     <footer class="footer">
         <div class="container">
-            <p>© 2026 GC Pouches. All rights reserved.</p>
+            <p>© 2026 GC Pouches. All rights reserved.
+                
+            </p>
         </div>
     </footer>
 

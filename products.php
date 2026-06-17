@@ -54,7 +54,8 @@ $result = mysqli_query($conn, $query);
 
         <p><?php echo $row['flavor']; ?></p>
 
-        <span><?php echo $row['strength']; ?></span>
+        <span><?php echo $row['strength'];
+         ?></span>
 
     </div>
 

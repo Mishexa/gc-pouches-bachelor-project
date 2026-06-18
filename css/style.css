@@ -465,8 +465,10 @@ section{
     opacity:.9;
 }
 
-
-
+.page-banner{
+    margin-top: 100px;
+    text-align: center;
+}
 
 
 
@@ -480,7 +482,8 @@ section{
     left:0;
     width:100%;
     z-index:1000;
-    padding:24px 0;
+    padding: 24px 0;
+    height: 25px;
     backdrop-filter:blur(10px);
     background:rgba(0,0,0,.2);
     border-bottom:1px solid rgba(255,255,255,.08);
@@ -496,6 +499,7 @@ section{
     font-size:26px;
     font-weight:700;
     color:white;
+    margin-left: 900px;
 }
 
 .nav{
@@ -551,7 +555,7 @@ section{
 
     background:
     linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.75)),
-    url('../assets/images/hero.jpg') center/cover;
+    url('../assets/images/summersale.jpg') center/cover;
 }
 
 .hero-content{
@@ -592,8 +596,9 @@ section{
    ABOUT SECTION
 ========================================== */
 
-
-
+.about-preview{
+    text-align: center;
+}
 
 
 
@@ -734,9 +739,10 @@ section{
 
 
 .footer{
-    background:#0d0d0d;
+    background:rgba(0, 0, 0, 0.767);
     color:white;
-    padding:60px 0;
+    padding: 10px 0;
+    text-align: center;
 }
 
 .footer-content{
@@ -755,6 +761,10 @@ section{
 
 .footer-content a:hover{
     color:white;
+    text-align: center;
+}
+.container{
+    margin-bottom: 50px;
 }
 
 .footer-bottom{
@@ -768,6 +778,7 @@ section{
     display:flex;
     gap:15px;
     margin-top:15px;
+    justify-content: center;
 }
 
 .social-links a{
@@ -819,3 +830,36 @@ section{
     margin-bottom:20px;
 }
 
+
+/* ==========================================
+   Age-popup
+========================================== */
+
+.age-popup {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+
+.popup-content {
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+}
+
+.popup-content button {
+    margin-top: 20px;
+    padding: 12px 24px;
+    border: none;
+    background-color: #0084ff;
+    color: white;
+    cursor: pointer;
+}

@@ -32,8 +32,10 @@
 
     <header class="header">
         <div class="container navbar">
-            <div class="logo">GC Pouches</div>
 
+            <div class="parentlogo"> 
+            <div class="logo">GC Pouches</div>
+</div>
             <nav class="nav">
                 <a href="index.php">Home</a>
                 <a href="about.php">About</a>
@@ -85,11 +87,11 @@
 
 
 <section class="about-preview">
-    <div class="container about-wrapper">
+    <!-- <div class="container about-wrapper"> -->
 
         <img src="assets/images/G7.jpg" alt="About GC Pouches">
-
-        <div class="about-text">
+</section>
+        <!-- <div class="about-text">
             <h2>About The Brand</h2>
 
             <p>
@@ -104,9 +106,9 @@
         </div>
 
     </div>
-</section>
+</section> -->
 
-<section class="why-us">
+<!-- <section class="why-us">
     <div class="container">
 
         <h2 class="section-title">Why Choose GC Pouches</h2>
@@ -131,7 +133,7 @@
         </div>
 
     </div>
-</section>
+</section> -->
 
 
 

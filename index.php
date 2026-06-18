@@ -8,12 +8,17 @@
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 </head>
 <body>
 
 
     <div class="loader" id="loader">
     <div class="loader-logo">GC Pouches</div>
+
+
+    <video class="elementor-video" src="https://drozepouches.ge/wp-content/uploads/2025/12/dro-32.mp4" 
+    autoplay="" loop="" muted="muted" controlslist="nodownload"></video>
 </div>
 
 
@@ -69,17 +74,10 @@
                 </div>
 
                 <div class="product-card">
-                    <img src="assets/images/product3.jpg" alt="Product">
-                    <h3>Velo Purple Grape Mini</h3>
-                    <p>Purple Grape with balanced strength.</p>
+                    <img src="assets/images/special.png" alt="Product">
+                    <h3>GC Pouches</h3>
+                    <p>GC Pouches Special!</p>
                 </div>
-
-                <div class="product-card">
-                    <img src="assets/images/product4.jpg" alt="Product">
-                    <h3>Zyn Red Fruits</h3>
-                    <p>Red Fruits is the best for fruit lovers.</p>
-                </div>
-
             </div>
         </div>
     </section>
@@ -138,6 +136,22 @@
 
 
     <footer class="footer">
+        <div class="social-links">
+
+    <a href="https://instagram.com/gc.pouches" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="https://tiktok.com/@gcpouches.sc" target="_blank">
+        <i class="fab fa-tiktok"></i>
+    </a>
+
+    <a href="https://linktr.ee/gcpouches7?utm_source=linktree_profile_share&ltsid=ecffe5c5-6741-4b92-ac18-0ce4a2fe3710" target="_blank">
+        <i class="fas fa-link"></i>
+    </a>
+
+</div>
+
         <div class="container">
             <p>© 2026 GC Pouches. All rights reserved.</p>
         </div>
@@ -151,4 +165,4 @@
 
 
 
-LARAVEL(PHP) + MYSQL
+<!-- LARAVEL(PHP) + MYSQL -->

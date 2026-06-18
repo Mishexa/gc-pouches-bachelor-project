@@ -33,7 +33,7 @@
 
     <section class="about-section">
         <div class="container">
-            <h3>What is GC Pouches?</h3>
+            <h2>What is GC Pouches?</h2>
             <p style="width:1000px;">
                 GC Pouches is a modern nicotine pouch brand focused on clean design,
                 strong product identity and international positioning. The goal is to offer the market's best prices,
@@ -41,15 +41,46 @@
                 GC Pouches is always available via email or phone to answer your questions.
                 Whether it's an order, recommendations or general questions.         
             </p>
-            <h3>What's the goal?</h3>
-            <p>
+            <h2>What's the goal?</h2>
+            <p style="width:1000px;">
                 The goal of the brand is to provide modern nicotine alternatives with
                 minimalistic branding and user-oriented presentation.
             </p>
-            <h3>quick facts:</h3>
-            <p>
-                
-            </p>
+            <section class="about-section">
+    <div class="container">
+
+        <h2>Our Story</h2>
+
+        <p style="width:1000px;">
+            GC Pouches was created with a simple goal: to provide adult consumers with high-quality nicotine pouch products in a modern and accessible way. As the popularity of smoke-free alternatives continues to grow worldwide, there is an increasing demand for reliable information and easy access to premium products.
+        </p>
+
+        <p style="width:1000px;">
+            Our platform is designed to showcase products, educate customers about nicotine pouches, and create a professional online presence for the brand. By combining a clean design with a user-friendly experience, GC Pouches aims to connect customers with the products they are looking for.
+        </p>
+
+    </div>
+    <section class="about-section gray-bg">
+    <div class="container">
+
+        <h2>Mission & Vision</h2>
+
+        <p>
+            Our mission is to build a trusted online platform where adult users can explore nicotine pouch products in a simple and transparent way.
+        </p>
+
+        <p>
+            Our vision is to expand GC Pouches beyond local markets and establish a recognizable international brand that focuses on quality, customer satisfaction, and innovation.
+        </p>
+
+    </div>
+
+    
+</section>
+
+
+
+</section>
 
 
         </div>

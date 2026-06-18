@@ -469,6 +469,9 @@ section{
     margin-top: 100px;
     text-align: center;
 }
+.about-preview{
+    text-align: center;
+}
 
 
 
@@ -596,8 +599,27 @@ section{
    ABOUT SECTION
 ========================================== */
 
-.about-preview{
-    text-align: center;
+
+.about-section{
+    padding:80px 0;
+}
+
+.about-section h2{
+    font-size:42px;
+    margin-bottom:25px;
+    text-align:center;
+}
+
+.about-section p{
+    max-width:900px;
+    margin:0 auto 20px;
+    line-height:1.8;
+    color:#555;
+    text-align:center;
+}
+
+.gray-bg{
+    background:#f8f9fb;
 }
 
 

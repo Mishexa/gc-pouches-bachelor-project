@@ -87,55 +87,10 @@
 
 
 <section class="about-preview">
-    <!-- <div class="container about-wrapper"> -->
 
         <img src="assets/images/G7.jpg" alt="About GC Pouches">
 </section>
-        <!-- <div class="about-text">
-            <h2>About The Brand</h2>
-
-            <p>
-                GC Pouches is a modern nicotine pouch brand focused on
-                minimal design, strong identity and international positioning.
-            </p>
-
-            <p>
-                The project represents a clean and modern digital experience
-                designed for international markets.
-            </p>
-        </div>
-
-    </div>
-</section> -->
-
-<!-- <section class="why-us">
-    <div class="container">
-
-        <h2 class="section-title">Why Choose GC Pouches</h2>
-
-        <div class="features-grid">
-
-            <div class="feature-box">
-                <h3>Modern Design</h3>
-                <p>Clean visual identity and premium presentation.</p>
-            </div>
-
-            <div class="feature-box">
-                <h3>International Vision</h3>
-                <p>Designed for global communication and positioning.</p>
-            </div>
-
-            <div class="feature-box">
-                <h3>Responsive Experience</h3>
-                <p>Optimized for desktop, tablet and mobile devices.</p>
-            </div>
-
-        </div>
-
-    </div>
-</section> -->
-
-
+       
 
     <footer class="footer">
         <div class="social-links">
@@ -162,9 +117,3 @@
     <script src="js/age-verification.js"></script>
 </body>
 </html>
-
-
-
-
-
-<!-- LARAVEL(PHP) + MYSQL -->

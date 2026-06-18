@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
             <?php endif; ?>
 
-            <!-- <div class="contact-info">
+            <div class="contact-info">
 
     <div class="info-card">
         <h3>Email</h3>
@@ -81,13 +81,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <p>Tbilisi, Georgia</p>
     </div>
 
-    </div> -->
+    </div>
 
    
-
-
-
-
             <form class="contact-form" method="POST">
             <input
                 type="text"
@@ -124,25 +120,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </section>
 
     <footer class="footer">
+  <div class="social-links">
 
-                <div class="info-card">
-    <i class="fas fa-envelope"></i>
-    <h3>Email</h3>
-    <p>info@gcpouches.com</p>
+    <a href="https://instagram.com/gc.pouches" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="https://tiktok.com/@gcpouches.sc" target="_blank">
+        <i class="fab fa-tiktok"></i>
+    </a>
+
+    <a href="https://linktr.ee/gcpouches7?utm_source=linktree_profile_share&ltsid=ecffe5c5-6741-4b92-ac18-0ce4a2fe3710" target="_blank">
+        <i class="fas fa-link"></i>
+    </a>
+
 </div>
-
-<div class="info-card">
-    <i class="fab fa-instagram"></i>
-    <h3>Instagram</h3>
-    <p>@gcpouches</p>
-</div>
-
-<div class="info-card">
-    <i class="fas fa-location-dot"></i>
-    <h3>Location</h3>
-    <p>Tbilisi, Georgia</p>
-</div>
-
+      
 
         <div class="container">
             <p>© 2026 GC Pouches. All rights reserved.</p>

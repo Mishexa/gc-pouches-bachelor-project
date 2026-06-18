@@ -64,46 +64,26 @@ $result = mysqli_query($conn, $query);
 
 </div>
 
-
-
-
-
-        <!-- <div class="container products-grid">
-
-            <div class="product-card">
-                <img src="assets/images/product1.jpg" alt="Velo Freezing Peppermint">
-                <h3>Velo Freezing Peppermint</h3>
-                <span>17mg</span>
-            </div>
-
-            <div class="product-card">
-                <img src="assets/images/product2.jpg" alt="Zyn Black Cherry">
-                <h3>Zyn Black Cherry</h3>
-                <span>13.5mg</span>
-            </div>
-
-            <div class="product-card">
-                <img src="assets/images/product3.jpg" alt="Velo Purple Grape Mini">
-                <h3>Velo Purple Grape Mini</h3>
-                <span>6mg</span>
-            </div>
-
-            <div class="product-card">
-                <img src="assets/images/product4.jpg" alt="Zyn Red Fruits">
-                <h3>Zyn Red Fruits</h3>
-                <span>6mg</span>
-            </div>
-
-        </div> -->
-
-
-
-
-
-
     </section>
 
     <footer class="footer">
+
+    
+        <div class="social-links">
+
+    <a href="https://instagram.com/gc.pouches" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="https://tiktok.com/@gcpouches.sc" target="_blank">
+        <i class="fab fa-tiktok"></i>
+    </a>
+
+    <a href="https://linktr.ee/gcpouches7?utm_source=linktree_profile_share&ltsid=ecffe5c5-6741-4b92-ac18-0ce4a2fe3710" target="_blank">
+        <i class="fas fa-link"></i>
+    </a>
+
+</div>
         <div class="container">
             <p>© 2026 GC Pouches. All rights reserved.</p>
         </div>
